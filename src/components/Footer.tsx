@@ -376,7 +376,7 @@ const Footer: React.FC<IProps> = () => {
                 return (
                   <Link
                     to={link.to}
-                    hideArrow={true}
+                    hideArrow
                     key={idx}
                     ariaLabel={link.ariaLabel}
                   >

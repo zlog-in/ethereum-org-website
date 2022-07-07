@@ -35,7 +35,7 @@ Les exigences en matière de matériel étant moins élevées, la fragmentation 
 
 <br />
 
-<InfoBanner isWarning={true}>
+<InfoBanner isWarning>
   Tout d'abord, vous allez devoir exécuter un client de réseau principal en même temps que le client de chaîne phare. <a href="https://launchpad.ethereum.org" target="_blank">Le tableau de bord</a> vous guidera à travers les exigences matérielles et les processus. Vous pouvez également utiliser une <a href="/developers/docs/apis/backend/#available-libraries">API backend</a>.
 </InfoBanner>
 

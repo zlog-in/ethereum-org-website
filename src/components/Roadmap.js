@@ -32,7 +32,7 @@ const IssueSection = ({ issues }) => {
       {issues.map((issue, idx) => {
         const url = issue.html_url ? issue.html_url : "#"
         return (
-          <Item to={url} key={idx} hideArrow={true}>
+          <Item to={url} key={idx} hideArrow>
             <div>{issue.title}</div>
             {issue.errorMsg && <ErrorMsg>{issue.errorMsg}</ErrorMsg>}
             <div>

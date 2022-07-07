@@ -35,7 +35,7 @@ Con menores requisitos de hardware, la fragmentación facilitará la ejecución 
 
 <br />
 
-<InfoBanner isWarning={true}>
+<InfoBanner isWarning>
   Al principio, usted necesitará ejecutar un cliente de red principal al mismo tiempo que su cliente de cadena de baliza. La <a href="https://launchpad.ethereum.org" target="_blank">plataforma de lanzamiento</a> le guiará a través de los requisitos de hardware y el proceso. Asimismo, puede usar una <a href="/developers/docs/apis/backend/#available-libraries">API de backend</a>.
 </InfoBanner>
 

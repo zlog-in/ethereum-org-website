@@ -435,7 +435,7 @@ const TutorialsPage = ({ data, pageContext }) => {
             <TutorialCard key={tutorial.to} to={tutorial.to} hideArrow>
               <TitleContainer>
                 <Title isExternal={tutorial.isExternal}>{tutorial.title}</Title>
-                <Pill isSecondary={true}>{tutorial.skill}</Pill>
+                <Pill isSecondary>{tutorial.skill}</Pill>
               </TitleContainer>
               <Author>
                 {/* TODO: Refactor each tutorial tag as a component */}

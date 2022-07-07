@@ -35,7 +35,7 @@ S nižim hardverskim zahtjevima, razdjeljivanje će olakšati samostalno pokreta
 
 <br />
 
-<InfoBanner isWarning={true}>
+<InfoBanner isWarning>
   Isprva ćete trebati pokretati klijent glavne mreže istovremeno sa svojim Eth2 klijentom. <a href="https://launchpad.ethereum.org" target="_blank"> Lansirna rampa </a> će vas provesti kroz hardverske zahtjeve i postupak. Možete upotrijebiti i <a href="/developers/docs/apis/backend/#available-libraries"> pozadinski API </a>.
 </InfoBanner>
 

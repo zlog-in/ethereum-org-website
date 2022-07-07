@@ -664,7 +664,7 @@ const StablecoinAccordion = () => {
                   </StepBoxRow>
                 </StepBox>
               </StepBoxContainer>
-              <InfoBanner isWarning={true}>
+              <InfoBanner isWarning>
                 <Translation id="page-stablecoins-accordion-buy-warning" />
               </InfoBanner>
             </LeftColumn>

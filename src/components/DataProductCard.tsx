@@ -118,7 +118,7 @@ const DataProductCard: React.FC<IProps> = ({
   description,
   data,
 }) => (
-  <Card hideArrow={true} to={url}>
+  <Card hideArrow to={url}>
     <ImageWrapper background={background}>
       <Image image={image} alt={`${name} logo`} />
     </ImageWrapper>

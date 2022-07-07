@@ -816,7 +816,7 @@ const StablecoinsPage = ({ data }) => {
             />
           ))}
         </StyledCardGrid>
-        <InfoBanner isWarning={true} shouldCenter={true}>
+        <InfoBanner isWarning shouldCenter>
           <H3>
             <Translation id="page-stablecoins-research-warning-title" />
           </H3>

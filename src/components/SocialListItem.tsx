@@ -24,7 +24,7 @@ const SocialListItem: React.FC<IProps> = ({ children, socialIcon }) => {
   return (
     <Item>
       <div>
-        <StyledIcon name={socialIcon} size={"2.5rem"} color={true} />
+        <StyledIcon name={socialIcon} size={"2.5rem"} color />
       </div>
       <div>{children}</div>
     </Item>

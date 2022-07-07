@@ -412,7 +412,7 @@ const StakingPage = ({
           <MobileTableOfContents
             items={tocItems}
             maxDepth={mdx.frontmatter.sidebarDepth}
-            isMobile={true}
+            isMobile
           />
         </TitleCard>
         <Image

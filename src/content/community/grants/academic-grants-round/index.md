@@ -8,7 +8,7 @@ sidebarDepth: 2
 
 # Academic Grants Round {#academic-grants-round}
 
-<InfoBanner emoji=":warning:" isWarning={true}>
+<InfoBanner emoji=":warning:" isWarning>
   The deadline has passed. Applications are now closed.
 </InfoBanner>
 

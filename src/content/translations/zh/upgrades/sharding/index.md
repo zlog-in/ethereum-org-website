@@ -35,7 +35,7 @@ summaryPoint4: 此升级计划跟随主网与信标链的合并。
 
 <br />
 
-<InfoBanner isWarning={true}>
+<InfoBanner isWarning>
   首先，您需要在运行信标链客户端的同时运行主网客户端。 <a href="https://launchpad.ethereum.org" target="_blank">启动板</a>将引导您完成硬件要求和过程。 或者使用<a href="/developers/docs/apis/backend/#available-libraries">后端应用程序接口</a>。
 </InfoBanner>
 

@@ -296,7 +296,7 @@ const GetETHPage = ({ data }) => {
               </Link>
             </em>
           </p>
-          <InfoBanner emoji=":wave:" shouldCenter={true} mt={`2rem`}>
+          <InfoBanner emoji=":wave:" shouldCenter mt={`2rem`}>
             <Translation id="page-get-eth-new-to-eth" />{" "}
             <Link to="/eth/">
               <Translation id="page-get-eth-whats-eth-link" />
@@ -351,7 +351,7 @@ const GetETHPage = ({ data }) => {
             <Translation id="page-get-eth-swapping" />
           </p>
           <CardList content={tokenSwaps} />
-          <InfoBanner isWarning={true}>
+          <InfoBanner isWarning>
             <Translation id="page-get-eth-warning" />
           </InfoBanner>
         </RightColumn>

@@ -35,7 +35,7 @@ Com requisitos de hardware mais baixos, a fragmentação tornará mais fácil a 
 
 <br />
 
-<InfoBanner isWarning={true}>
+<InfoBanner isWarning>
   Inicialmente, você precisará executar um cliente da rede principal de forma simultânea com um cliente da Beacon Chain. <a href="https://launchpad.ethereum.org" target="_blank">O launchpad</a> o guiará através dos requisitos e processos de hardware. Como alternativa, você pode usar uma <a href="/developers/docs/apis/backend/#available-libraries">API de back-end</a>.
 </InfoBanner>
 

@@ -35,7 +35,7 @@ summaryPoint4: Това надграждане е планирано да пос
 
 <br />
 
-<InfoBanner isWarning={true}>
+<InfoBanner isWarning>
   Като начало ще трябва да активирате клиент на основната мрежа едновременно с клиента на Eth2. <a href="https://launchpad.ethereum.org" target="_blank">Платформата</a> ще ви води през изискванията към хардуера и целия процес. Възможно е и да използвате <a href="/developers/docs/apis/backend/#available-libraries">вътрешен API</a>.
 </InfoBanner>
 

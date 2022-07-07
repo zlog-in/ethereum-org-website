@@ -35,7 +35,7 @@ summaryPoint4: このアップグレードは、メインネットとビーコ�
 
 <br />
 
-<InfoBanner isWarning={true}>
+<InfoBanner isWarning>
   まず、ビーコンチェーンのクライアントとメインネットのクライアントを同時に実行する必要があります。 <a href="https://launchpad.ethereum.org" target="_blank">launchpad</a> では、ハードウェア要件とプロセスについて説明します。 代替方法として、<a href="/developers/docs/apis/backend/#available-libraries">バックエンドAPI</a>を使用することもできます。
 </InfoBanner>
 

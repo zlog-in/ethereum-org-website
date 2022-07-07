@@ -196,7 +196,7 @@ const StaticPage = ({
         <MobileTableOfContents
           editPath={absoluteEditPath}
           items={tocItems}
-          isMobile={true}
+          isMobile
           maxDepth={mdx.frontmatter.sidebarDepth}
         />
         <MDXProvider components={components}>

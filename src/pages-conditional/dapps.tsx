@@ -1282,7 +1282,7 @@ const DappsPage = ({
                   <Translation id="page-dapps-finance-description" />
                 </Subtitle>
               </Column>
-              <StyledInfoBanner isWarning={true}>
+              <StyledInfoBanner isWarning>
                 <H2>
                   <Translation id="page-dapps-warning-header" />
                 </H2>
@@ -1396,7 +1396,7 @@ const DappsPage = ({
                   <Translation id="page-dapps-gaming-description" />
                 </Subtitle>
               </Column>
-              <StyledInfoBanner isWarning={true}>
+              <StyledInfoBanner isWarning>
                 <H2>
                   <Translation id="page-dapps-warning-header" />
                 </H2>
@@ -1437,7 +1437,7 @@ const DappsPage = ({
                   <Translation id="page-dapps-technology-description" />
                 </Subtitle>
               </Column>
-              <StyledInfoBanner isWarning={true}>
+              <StyledInfoBanner isWarning>
                 <H2>
                   <Translation id="page-dapps-warning-header" />
                 </H2>
@@ -1498,7 +1498,7 @@ const DappsPage = ({
                   <Translation id="page-dapps-collectibles-description" />
                 </Subtitle>
               </Column>
-              <StyledInfoBanner isWarning={true}>
+              <StyledInfoBanner isWarning>
                 <H2>
                   <Translation id="page-dapps-warning-header" />
                 </H2>

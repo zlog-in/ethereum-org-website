@@ -66,13 +66,13 @@ const GitStars: React.FC<IProps> = ({ gitHubRepo, className, hideStars }) => {
   }
   if (hideStars) {
     return (
-      <Container className={className} to={gitHubRepo.url} hideArrow={true}>
+      <Container className={className} to={gitHubRepo.url} hideArrow>
         <StyledIcon name="github" size="16px" />
       </Container>
     )
   }
   return (
-    <Container className={className} to={gitHubRepo.url} hideArrow={true}>
+    <Container className={className} to={gitHubRepo.url} hideArrow>
       <GlyphPill>
         <Icon name="github" size="16px" />
         <Emoji text=":star:" size={1} />

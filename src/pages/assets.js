@@ -202,7 +202,7 @@ const AssetsPage = ({ data }) => {
             image={data.wallet}
             artistName="William Tempest"
             artistUrl="https://cargocollective.com/willtempest"
-            shouldHide={true}
+            shouldHide
           />
         </Row>
 

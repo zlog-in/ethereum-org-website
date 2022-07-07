@@ -351,7 +351,7 @@ const GetInvolvedPage = ({ data, location }) => {
             description={client.description}
             alt={translateMessageId(client.alt, intl)}
             githubUrl={client.githubUrl}
-            hideStars={true}
+            hideStars
           >
             {client.children}
           </ProductCard>

@@ -98,7 +98,7 @@ const TutorialMetadata: React.FC<IProps> = ({ tutorial }) => {
         <PillContainer>
           <TutorialTags tags={frontmatter.tags} />
         </PillContainer>
-        <SkillPill isSecondary={true} className="" color="">
+        <SkillPill isSecondary className="" color="">
           {frontmatter.skill}
         </SkillPill>
       </TagsContainer>

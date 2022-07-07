@@ -35,7 +35,7 @@ summaryPoint4: Таке оновлення за планом має відбут
 
 <br />
 
-<InfoBanner isWarning={true}>
+<InfoBanner isWarning>
   Для початку потрібно запустити клієнт основної мережі одночасно з клієнтом Eth2. <a href="https://launchpad.ethereum.org" target="_blank">Панель запуску</a> міститиме відомості про вимоги щодо технічного обладнання та вказівки для роботи. Крім того, ви можете використовувати <a href="/developers/docs/apis/backend/#available-libraries">внутрішній інтерфейс API</a>.
 </InfoBanner>
 
